@@ -1,0 +1,16 @@
+Framework/KillAllProcesses.xaml|638996668260000000
+Framework/InitAllApplications.xaml|639137922693493491
+Framework/Process.xaml|639143701600415990
+Framework/InitAllSettings.xaml|638996668260000000
+Framework/RetryCurrentTransaction.xaml|638996668260000000
+Framework/TakeScreenshot.xaml|638996668260000000
+Framework/SetTransactionStatus.xaml|638996668260000000
+Framework/GetTransactionData.xaml|639137913440229215
+Framework/CloseAllApplications.xaml|639137926822781381
+Chrome/Chrome_checkLogin.xaml|639137494305901005
+Chrome/Chrome_logOut.xaml|639137509926069952
+Chrome/Chrome_clickWorkItem.xaml|639137514385845563
+Chrome/Chrome_loginToAcme.xaml|639137469105677883
+Chrome/Chrome_openAcme.xaml|639137441878238691
+Chrome/Chrome_extractWorkItemTable.xaml|639141053815059233
+Main.xaml|639141351616328637
